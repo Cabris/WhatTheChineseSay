@@ -1,0 +1,66 @@
+#body {
+	background-color: #E4B83B;
+	color: white;
+	text-align: center;
+	background-image: url("republic-of-china.png");
+	background-color: #cccccc;
+}
+select {
+	width: 150%;
+	text-align: center;
+}
+
+#header {
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	height: 70px;
+	line-height: 70px;
+}
+
+#controls {
+	margin: 0px auto;
+	float:inherit;
+	position: relative;
+	display:table;
+}
+
+#share{
+	margin: 0px auto;
+}
+
+.css_tr {
+      display: table-row;
+      margin: 0px auto;
+  }
+.css_td {
+      display: table-cell;
+      vertical-align:middle;
+      margin: 0px auto;
+      heri:middle;
+  }
+
+#section {
+	overflow: auto;
+	background: rgba(30%,0%,0%,0.6);
+	font-size: 150%;
+	margin: 0px auto;
+	width: 650px;
+	height: 100%;
+	float: inherit;
+	text-align: center;
+	padding: 10px;
+}
+
+#_text {
+	width: 600px;
+	height: 600px;
+}
+
+#footer {
+	color: white;
+	clear: both;
+	text-align: center;
+	height: 70px;
+	line-height: 70px;
+}
